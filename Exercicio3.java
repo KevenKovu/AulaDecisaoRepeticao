@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Exercicio3 {
     
     public void executar3(Scanner input) {
-        System.out.println("Iniciando a execução do programa 2 -- par ao quadrado, ímpar ao cubo");
+        System.out.println("Iniciando a execução do programa 3 -- par ao quadrado, ímpar ao cubo");
         System.out.println("Informe o valor da variável: ");
         int num = input.nextInt();
         if (num %2 ==0){

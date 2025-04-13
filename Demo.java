@@ -33,10 +33,88 @@ public class Demo {
                     Exercicio4 exercicio4 = new Exercicio4();
                     exercicio4.executar4(input);
                     break;
-                case 4:
+                case 5:
                     Exercicio5 exercicio5 = new Exercicio5();
                     exercicio5.executar5(input);
-                    break
+                    break;
+                case 6:
+                    Exercicio6 exercicio6 = new Exercicio6();
+                    exercicio6.executar6(input);
+                    break;
+                case 7:
+                    Exercicio7 exercicio7 = new Exercicio7();
+                    exercicio7.executar7(input);
+                    break;
+                
+                case 8:
+                    Exercicio8 exercicio8 = new Exercicio8();
+                    exercicio8.executar8(input);
+                    break;
+                
+                case 9:
+                    Exercicio9 exercicio9 = new Exercicio9();
+                    exercicio9.executar9(input);
+                    break;
+                
+                case 10:
+                    Exercicio10 exercicio10 = new Exercicio10();
+                    exercicio10.executar10(input);
+                    break;
+                
+                case 11:
+                    Exercicio11 exercicio11 = new Exercicio11();
+                    exercicio11.executar11(input);
+                    break;
+                
+                case 12:
+                    Exercicio12 exercicio12 = new Exercicio12();
+                    exercicio12.executar12(input);
+                    break;
+                
+                case 13:
+                    Exercicio13 exercicio13 = new Exercicio13();
+                    exercicio13.executar13(input);
+                    break;
+                
+                case 14:
+                    Exercicio14 exercicio14 = new Exercicio14();
+                    exercicio14.executar14(input);
+                    break;
+                
+                case 15:
+                    Exercicio15 exercicio15 = new Exercicio15();
+                    exercicio15.executar15(input);
+                    break;
+                
+                case 16:
+                    Exercicio16 exercicio16 = new Exercicio16();
+                    exercicio16.executar16(input);
+                    break;
+                
+                case 17:
+                    Exercicio17 exercicio17 = new Exercicio17();
+                    exercicio17.executar17(input);
+                    break;
+                
+                case 18:
+                    Exercicio18 exercicio18 = new Exercicio18();
+                    exercicio18.executar18(input);
+                    break;
+                
+                case 19:
+                    Exercicio19 exercicio19 = new Exercicio19();
+                    exercicio19.executar19(input);
+                    break;
+                
+                case 20:
+                    Exercicio20 exercicio20 = new Exercicio20();
+                    exercicio20.executar20(input);
+                    break;
+                
+                case 21:
+                    Exercicio21 exercicio21 = new Exercicio21();
+                    exercicio21.executar21(input);
+                    break;
                 case -1:
                     // Sai do programa.
                     System.out.println("Programa finalizado com sucesso!");
