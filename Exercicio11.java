@@ -28,6 +28,7 @@ public class Exercicio11 {
             }if (num%2==0){
                 media+=num;
                 media/=5;
+                System.out.println("A média é "+media);
             }else{System.out.println("Algum número não é par.");}
 
         }while (media==0);

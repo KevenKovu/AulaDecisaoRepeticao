@@ -8,13 +8,15 @@ public class Exercicio6 {
         System.out.println("Em que turno você estuda?\nDigite M-matutino ou " + //
                         "V-Vespertino ou N- Noturno");
         String turno = input.next().toUpperCase();
-        if (turno =="M"){
+        if (turno.equals("M")) {
             System.out.println("Bom dia!");
-        }else if (turno == "V") {
-            System.out.println("Boa tarde!");            
-        }else if (turno =="N"){
+        } else if (turno.equals("V")) {
+            System.out.println("Boa tarde!");
+        } else if (turno.equals("N")) {
             System.out.println("Boa noite!");
-        }else{System.out.println("Entrada inválida!");}
+        } else {
+            System.out.println("Entrada inválida!");
+        }
     }
 }
 

@@ -6,7 +6,7 @@ public class Exercicio10 {
         int count= 0;
         float num;
         System.out.println("Dê 5 valores, sendo um por vez.");
-        for (int i=0; i>5;i++){
+        for (int i=0; i<5;i++){
             num=input.nextFloat();
             if (num<0){
                 count= count+1;
