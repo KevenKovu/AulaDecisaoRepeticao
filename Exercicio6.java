@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Exercicio6 {
     public void executar6(Scanner input){
+        System.out.println("Iniciando a execução do programa 6 -- cumprimento");
         System.out.println("Em que turno você estuda?\nDigite M-matutino ou " + //
                         "V-Vespertino ou N- Noturno");
         String turno = input.next().toUpperCase();
