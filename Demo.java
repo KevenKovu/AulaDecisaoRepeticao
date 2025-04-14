@@ -9,6 +9,24 @@ public class Demo {
             System.out.println("\t0 - Menu com do-while");
             System.out.println("\t2 - Exercício ....");
             System.out.println("\t3 - Exercício ....");
+            System.out.println("\t4 - Exercício ....");
+            System.out.println("\t5 - Exercício ....");
+            System.out.println("\t6 - Exercício ....");
+            System.out.println("\t7 - Exercício ....");
+            System.out.println("\t8 - Exercício ....");
+            System.out.println("\t9 - Exercício ....");
+            System.out.println("\t10 - Exercício ....");
+            System.out.println("\t11 - Exercício ....");
+            System.out.println("\t12 - Exercício ....");
+            System.out.println("\t13 - Exercício ....");
+            System.out.println("\t14 - Exercício ....");
+            System.out.println("\t15 - Exercício ....");
+            System.out.println("\t16 - Exercício ....");
+            System.out.println("\t17 - Exercício ....");
+            System.out.println("\t18 - Exercício ....");
+            System.out.println("\t19 - Exercício ....");
+            System.out.println("\t20 - Exercício ....");
+            System.out.println("\t21 - Exercício ....");
             System.out.println("\t-1 - SAIR DO PROGRAMA!");
 
             System.out.println("Escolha sua opção: ");
